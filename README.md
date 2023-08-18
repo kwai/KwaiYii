@@ -226,6 +226,7 @@
 
 - [CMMLU](https://github.com/haonan-li/CMMLU)是一个综合性的中文评估基准，专门用于评估语言模型在中文语境下的知识和推理能力。CMMLU涵盖了从基础学科到高级专业水平的67个主题，包括：需要计算和推理的自然科学，需要知识的人文科学和社会科学，以及需要生活常识的中国驾驶规则等，共11582道单项选择题。此外，CMMLU中的许多任务具有中国特色，可能在其他地区或语言中并不普遍适用，是一个完全中国化的中文测试基准。评测分别采用5-shot和0-shot的方式进行。
 
+**5-shot**
 <table class="tg">
 <thead>
   <tr>
@@ -240,10 +241,6 @@
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <!-- <td class="tg-0lax"><br></td> -->
-    <td class="tg-d5y0" colspan="7" style="text-align: center;">5-shot</td>
-  </tr>
   <tr>
     <td class="tg-0lax" rowspan="6"><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
     <td class="tg-8jfr"><strong>KwaiYii-13B-Base</strong></td>
@@ -336,10 +333,24 @@
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">62.66</span></td>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">50.69</span></td>
   </tr>
+</tbody>
+</table>
+
+**0-shot**
+<table class="tg">
+<thead>
   <tr>
-    <!-- <td class="tg-0lax"><br></td> -->
-    <td class="tg-d5y0" colspan="7" style="text-align: center;">0-shot</td>
+    <th class="tg-0lax"></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">模型</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">平均分</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">STEM</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">人文学科</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">社会科学</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">其他</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">中国特定<br>主题</span></th>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td class="tg-y0ns" rowspan="5"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
     <td class="tg-8jfr"><strong>KwaiYii-13B-Base</strong></td>
@@ -416,6 +427,8 @@
   </tr>
 </tbody>
 </table>
+
+
 
 - [GSM8K](https://github.com/openai/grade-school-math)是由OpenAI构建的高中数学应用题数据集，包含8500道高质量的数据，主要目标是对模型的数学推理能力进行评测，其中测试集1319条数据，每个问题都需要2-8个步骤来解决，解决方案主要包括使用基本算术运算（+ − × ÷）进行一系列的基本计算，以得到最终答案。其采用8-shot进行评测。
 
@@ -535,5 +548,5 @@ Benchmark指标体现了语言模型的基础理解能力，更直观地，我�
 
 我们对KwaiYii-13B-Chat模型以及同等参数规模的行业主流模型，均与ChatGPT(3.5)进行了对比和人工评估，其各自的得分如下图所示。从人工评估的结果来看，KwaiYii-13B-Chat超过了同等规模的开源模型，并接近ChatGPT同等水平。在内容创作、信息咨询、逻辑推理和数学解题上，基本与ChatGPT(3.5)效果相当。在多轮对话能力方面，KwaiYii-13B-Chat超过同等规模的开源模型，但与ChatGPT(3.5)仍有一定差距。注意：人工评估结果受到评测数据覆盖面、标注主观性等因素的影响，无法全面反映大语言模型的所有能力。
                
-![](image.png){width=600 height=400}        
+![](image.png){width=300 height=200}        
 
