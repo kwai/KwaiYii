@@ -234,7 +234,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" rowspan="6"><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
+    <td class="tg-0lax" rowspan="5"><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
     <td class="tg-8jfr"><strong>KwaiYii-13B-Base</strong></td>
     <td class="tg-8jfr"><strong>61.73</strong></td>
     <td class="tg-8jfr"><strong>46.54</strong></td>
