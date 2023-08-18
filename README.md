@@ -548,6 +548,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们对KwaiYii-13B-Chat模型以及同等参数规模的行业主流模型，均与ChatGPT(3.5)进行了对比和人工评估，其各自的得分如下图所示。从人工评估的结果来看，KwaiYii-13B-Chat超过了同等规模的开源模型，并接近ChatGPT同等水平。在内容创作、信息咨询、逻辑推理和数学解题上，基本与ChatGPT(3.5)效果相当。在多轮对话能力方面，KwaiYii-13B-Chat超过同等规模的开源模型，但与ChatGPT(3.5)仍有一定差距。注意：人工评估结果受到评测数据覆盖面、标注主观性等因素的影响，无法全面反映大语言模型的所有能力。
                
-<center>
+<div style="text-align: center;">
 <img src="image.png" alt="Image" style="width:650px;height:450px;">
-</center>
+</div>
