@@ -1,7 +1,7 @@
 # 「快意」大规模语言模型（KwaiYii）
 
 ## 简介
-「快意」大模型（KwaiYii） 是由快手AI团队从零到一研发的一系列大规模语言模型（Large Language Model，LLM），当前包含了多种参数规模的模型，并覆盖了预训练模型（KwaiYii-Base)、对话模型（KwaiYii-Chat)。这里面我们介绍13B规模的系列模型KwaiYii-13B，其主要特点包括：
+「快意」大模型（KwaiYii） 是由快手AI团队从零到一独立自主研发的一系列大规模语言模型（Large Language Model，LLM），当前包含了多种参数规模的模型，并覆盖了预训练模型（KwaiYii-Base)、对话模型（KwaiYii-Chat)。这里面我们介绍13B规模的系列模型KwaiYii-13B，其主要特点包括：
 - KwaiYii-13B-Base预训练模型具备优异的通用技术底座能力，在绝大部分权威的中/英文Benchmark上取得了同等模型尺寸下的State-Of-The-Art效果。例如，KwaiYii-13B-Base预训练模型在MMLU、CMMLU、C-Eval、HumanEval等Benchmark上目前处于同等模型规模的领先水平。
 - KwaiYii-13B-Chat对话模型具备出色的语言理解和生成能力，支持内容创作、信息咨询、数学逻辑、代码编写、多轮对话等广泛任务，人工评估结果表明KwaiYii-13B-Chat超过主流的开源模型，并在内容创作、信息咨询和数学解题上接近ChatGPT同等水平。
 
