@@ -3,7 +3,7 @@
 ## 简介
 「快意」大模型（KwaiYii） 是由快手AI团队从零到一独立自主研发的一系列大规模语言模型（Large Language Model，LLM），当前包含了多种参数规模的模型，并覆盖了预训练模型（KwaiYii-Base)、对话模型（KwaiYii-Chat)。这里面我们介绍13B规模的系列模型KwaiYii-13B，其主要特点包括：
 - KwaiYii-13B-Base预训练模型具备优异的通用技术底座能力，在绝大部分权威的中/英文Benchmark上取得了同等模型尺寸下的State-Of-The-Art效果。例如，KwaiYii-13B-Base预训练模型在MMLU、CMMLU、C-Eval、HumanEval等Benchmark上目前处于同等模型规模的领先水平。
-- KwaiYii-13B-Chat对话模型具备出色的语言理解和生成能力，支持内容创作、信息咨询、数学逻辑、代码编写、多轮对话等广泛任务，人工评估结果表明KwaiYii-13B-Chat超过主流的开源模型，并在内容创作、信息咨询和数学解题上接近ChatGPT同等水平。
+- KwaiYii-13B-Chat对话模型具备出色的语言理解和生成能力，支持内容创作、信息咨询、数学逻辑、代码编写、多轮对话等广泛任务，人工评估结果表明KwaiYii-13B-Chat超过主流的开源模型，并在内容创作、信息咨询和数学解题上接近ChatGPT(3.5)同等水平。
 
 ## Benchmark评测效果
 我们选取了行业中被广泛认可的权威Benchmark进行评测，例如体现英文综合能力的MMLU、体现中文综合能力的C-Eval和CMMLU、体现中小学数学能力的GSM8K以及体现代码能力的HumanEval，并与行业上的主流模型在上述Benchmark上汇报的指标结果进行比较。具体对比结果如下所示：
@@ -243,7 +243,7 @@
 <tbody>
   <tr>
     <td class="tg-0lax"><br></td>
-    <td class="tg-d5y0" colspan="7"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">5-shot</span></td>
+    <td class="tg-d5y0" colspan="7"><span style="text-align:center;font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">5-shot</span></td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="6"><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
@@ -339,7 +339,7 @@
   </tr>
   <tr>
     <td class="tg-0lax"><br></td>
-    <td class="tg-d5y0" colspan="7"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">0-shot</span></td>
+    <td class="tg-d5y0" colspan="7"><span style="text-align:center;font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">0-shot</span></td>
   </tr>
   <tr>
     <td class="tg-y0ns" rowspan="5"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
