@@ -125,14 +125,6 @@
 <tbody>
   <tr>
     <td class="tg-0lax" rowspan="7"><br><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
-    <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">Llama2-70B-Base</span></td>
-    <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">68.9</span></td>
-    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
-    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
-    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
-    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
-  </tr>
-  <tr>
     <td class="tg-khs9"><strong>KwaiYii-13B</span></td>
     <td class="tg-khs9"><strong>57.42</span></td>
     <td class="tg-z1xk"><strong>46.82</span></td>
