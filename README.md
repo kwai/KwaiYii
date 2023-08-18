@@ -243,7 +243,8 @@
 <tbody>
   <tr>
     <td class="tg-0lax"><br></td>
-    <td class="tg-d5y0" colspan="7">                              5-shot</td>
+    <td class="tg-d5y0" colspan="3"></td>
+    <td class="tg-d5y0" colspan="4">5-shot</td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="6"><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
@@ -339,7 +340,8 @@
   </tr>
   <tr>
     <td class="tg-0lax"><br></td>
-    <td class="tg-d5y0" colspan="7">                              0-shot</td>
+    <td class="tg-d5y0" colspan="3"></td>
+    <td class="tg-d5y0" colspan="4">0-shot</td>
   </tr>
   <tr>
     <td class="tg-y0ns" rowspan="5"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
