@@ -231,7 +231,7 @@
 <thead>
   <tr>
     <th class="tg-0lax"></th>
-    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">模型</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">模型 5-shot</span></th>
     <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">平均分</span></th>
     <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">STEM</span></th>
     <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">人文学科</span></th>
@@ -336,12 +336,12 @@
 </tbody>
 </table>
 
-****
+**0-shot**
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-0lax"></th>
-    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">模型</span></th>
+    <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">模型 0-shot</span></th>
     <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">平均分</span></th>
     <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">STEM</span></th>
     <th class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">人文学科</span></th>
@@ -548,5 +548,4 @@ Benchmark指标体现了语言模型的基础理解能力，更直观地，我�
 
 我们对KwaiYii-13B-Chat模型以及同等参数规模的行业主流模型，均与ChatGPT(3.5)进行了对比和人工评估，其各自的得分如下图所示。从人工评估的结果来看，KwaiYii-13B-Chat超过了同等规模的开源模型，并接近ChatGPT同等水平。在内容创作、信息咨询、逻辑推理和数学解题上，基本与ChatGPT(3.5)效果相当。在多轮对话能力方面，KwaiYii-13B-Chat超过同等规模的开源模型，但与ChatGPT(3.5)仍有一定差距。注意：人工评估结果受到评测数据覆盖面、标注主观性等因素的影响，无法全面反映大语言模型的所有能力。
                
-![](image.png){width=200 height=120}        
-
+<img src="image.png" alt="Image" style="width:450px;height:300px;">
