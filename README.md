@@ -25,8 +25,8 @@
 <tbody>
   <tr>
     <td class="tg-y0ns" rowspan="4"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B-Base</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">62.6</span></td>
+    <td class="tg-khs9"><b><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">**KwaiYii-13B-Base**</span></b></td>
+    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">**62.6**</span></td>
     <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">52.7</span></td>
     <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">74.1</span></td>
     <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">68.8</span></td>
