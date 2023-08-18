@@ -26,11 +26,11 @@
   <tr>
     <td class="tg-y0ns" rowspan="4"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
     <td class="tg-khs9"><strong>KwaiYii-13B-Base</strong></td>
-    <td class="tg-xi0c"><strong>62.6<strong></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">52.7</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">74.1</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">68.8</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">63.7</span></td>
+    <td class="tg-xi0c"><strong>62.6</strong></td>
+    <td class="tg-xi0c"><strong>52.7</strong></td>
+    <td class="tg-xi0c"><strong>74.1</strong></td>
+    <td class="tg-xi0c"><strong>68.8</strong></td>
+    <td class="tg-xi0c"><strong>63.7</strong></td>
   </tr>
   <tr>
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">ChatGLM2-12B-Base</span></td>
@@ -74,12 +74,12 @@
     <td class="tg-b6h1"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">67.8</span></td>
   </tr>
   <tr>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B-Chat</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">59.0</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">49.9</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">69.2</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">63.9</span></td>
-    <td class="tg-xi0c"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#212529;background-color:#FFF">61.0</span></td>
+    <td class="tg-khs9"><strong>KwaiYii-13B-Chat</strong></td>
+    <td class="tg-8jfr"><strong>59.0</strong></td>
+    <td class="tg-xi0c"><strong>49.9</strong></td>
+    <td class="tg-xi0c"><strong>69.2</strong></td>
+    <td class="tg-xi0c"><strong>63.9</strong></td>
+    <td class="tg-xi0c"><strong>61.0</strong></td>
   </tr>
   <tr>
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">ChatGLM2-12B-Chat</span></td>
@@ -133,12 +133,12 @@
     <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
   </tr>
   <tr>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">57.42</span></td>
-    <td class="tg-z1xk"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">46.82</span></td>
-    <td class="tg-z1xk"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">68.83</span></td>
-    <td class="tg-z1xk"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">51.56</span></td>
-    <td class="tg-z1xk"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">64.96</span></td>
+    <td class="tg-khs9"><strong>KwaiYii-13B</span></td>
+    <td class="tg-khs9"><strong>57.42</span></td>
+    <td class="tg-z1xk"><strong>46.82</span></td>
+    <td class="tg-z1xk"><strong>68.83</span></td>
+    <td class="tg-z1xk"><strong>51.56</span></td>
+    <td class="tg-z1xk"><strong>64.96</span></td>
   </tr>
   <tr>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">Qwen-7B</span></td>
@@ -198,12 +198,12 @@
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
   </tr>
   <tr>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B-Chat</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">56.44</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">46.79</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">66.36</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">50.73</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">64.28</span></td>
+    <td class="tg-khs9"><strong>KwaiYii-13B-Chat</strong></td>
+    <td class="tg-khs9"><strong>56.44</strong></td>
+    <td class="tg-khs9"><strong>46.79</strong></td>
+    <td class="tg-khs9"><strong>66.36</strong></td>
+    <td class="tg-khs9"><strong>50.73</strong></td>
+    <td class="tg-khs9"><strong>64.28</strong></td>
   </tr>
   <tr>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">ChatGLM2-12B-Chat</span></td>
@@ -247,13 +247,13 @@
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="6"><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">KwaiYii-13B-Base</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">61.73</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">46.54</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">69.22</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">64.49</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">65.09</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">63.1</span></td>
+    <td class="tg-8jfr"><strong>KwaiYii-13B-Base</strong></td>
+    <td class="tg-8jfr"><strong>61.73</strong></td>
+    <td class="tg-8jfr"><strong>46.54</strong></td>
+    <td class="tg-8jfr"><strong>69.22</strong></td>
+    <td class="tg-8jfr"><strong>64.49</strong></td>
+    <td class="tg-8jfr"><strong>65.09</strong></td>
+    <td class="tg-8jfr"><strong>63.1</strong></td>
   </tr>
   <tr>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">Qwen-7B-Base</span></td>
@@ -311,13 +311,13 @@
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">66.12</span></td>
   </tr>
   <tr>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">KwaiYii-13B-Chat</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">59.97</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">47.33</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">65.85</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">62.19</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">62.23</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">61.00</span></td>
+    <td class="tg-8jfr"><strong>KwaiYii-13B-Chat</strong></td>
+    <td class="tg-8jfr"><strong>59.97</strong></td>
+    <td class="tg-8jfr"><strong>47.33</strong></td>
+    <td class="tg-8jfr"><strong>65.85</strong></td>
+    <td class="tg-8jfr"><strong>62.19</strong></td>
+    <td class="tg-8jfr"><strong>62.23</strong></td>
+    <td class="tg-8jfr"><strong>61.00</strong></td>
   </tr>
   <tr>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">Baichuan-13B-Chat</span></td>
@@ -343,13 +343,13 @@
   </tr>
   <tr>
     <td class="tg-y0ns" rowspan="5"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">KwaiYii-13B-Base</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">61.22</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">46.82</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">69.35</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">63.42</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">64.02</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">63.26</span></td>
+    <td class="tg-8jfr"><strong>KwaiYii-13B-Base</strong></td>
+    <td class="tg-8jfr"><strong>61.22</strong></td>
+    <td class="tg-8jfr"><strong>46.82</strong></td>
+    <td class="tg-8jfr"><strong>69.35</strong></td>
+    <td class="tg-8jfr"><strong>63.42</strong></td>
+    <td class="tg-8jfr"><strong>64.02</strong></td>
+    <td class="tg-8jfr"><strong>63.26</strong></td>
   </tr>
   <tr>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">MiLM-6B</span></td>
@@ -398,13 +398,13 @@
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">63.47</span></td>
   </tr>
   <tr>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">KwaiYii-13B-Chat</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">60.41</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">46.15</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">66.49</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">63.25</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">62.68</span></td>
-    <td class="tg-8jfr"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">61.94</span></td>
+    <td class="tg-8jfr"><strong>KwaiYii-13B-Chat</strong></td>
+    <td class="tg-8jfr"><strong>60.41</strong></td>
+    <td class="tg-8jfr"><strong>46.15</strong></td>
+    <td class="tg-8jfr"><strong>66.49</strong></td>
+    <td class="tg-8jfr"><strong>63.25</strong></td>
+    <td class="tg-8jfr"><strong>62.68</strong></td>
+    <td class="tg-8jfr"><strong>61.94</strong></td>
   </tr>
   <tr>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">GPT-3.5</span></td>
@@ -435,8 +435,8 @@
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">51.6</span></td>
   </tr>
   <tr>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B-Base</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">48.4</span></td>
+    <td class="tg-khs9"><strong>KwaiYii-13B-Base</strong></td>
+    <td class="tg-khs9"><strong>48.4</strong></td>
   </tr>
   <tr>
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">ChatGLM2-12B-Base</span></td>
@@ -460,8 +460,8 @@
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">57.1</span></td>
   </tr>
   <tr>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B-Chat</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">52.2</span></td>
+    <td class="tg-khs9"><strong>KwaiYii-13B-Chat</strong></td>
+    <td class="tg-khs9"><strong>52.2</strong></td>
   </tr>
   <tr>
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">Qwen-7B-Chat</span></td>
@@ -487,8 +487,8 @@
 <tbody>
   <tr>
     <td class="tg-vzja" rowspan="4"><br><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B-Base</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">40.8</span></td>
+    <td class="tg-khs9"><strong>KwaiYii-13B-Base</strong></td>
+    <td class="tg-khs9"><strong>40.8</strong></td>
   </tr>
   <tr>
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">Qwen-7B-Base</span></td>
@@ -512,8 +512,8 @@
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">48.1</span></td>
   </tr>
   <tr>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">KwaiYii-13B-Chat</span></td>
-    <td class="tg-khs9"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">43.3</span></td>
+    <td class="tg-khs9"><strong>KwaiYii-13B-Chat</strong></td>
+    <td class="tg-khs9"><strong>43.3</strong></td>
   </tr>
   <tr>
     <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">Qwen-7B-Chat</span></td>
