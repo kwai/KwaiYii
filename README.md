@@ -125,6 +125,14 @@
 <tbody>
   <tr>
     <td class="tg-0lax" rowspan="7"><br><br><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">预训练模型</span></td>
+    <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">Llama2-70B-Base</span></td>
+    <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">68.9</span></td>
+    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
+    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
+    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
+    <td class="tg-3oft"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">-</span></td>
+  </tr>
+  <tr>
     <td class="tg-khs9"><strong>KwaiYii-13B</span></td>
     <td class="tg-khs9"><strong>57.42</span></td>
     <td class="tg-z1xk"><strong>46.82</span></td>
@@ -278,6 +286,15 @@
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">50.99</span></td>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">50.80</span></td>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">48.37</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">Llama1-65B</span><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">-Base</span></td>
+    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">39.80</span></td>
+    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">34.47</span></td>
+    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">40.24</span></td>
+    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">41.55</span></td>
+    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">42.88</span></td>
+    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">37.00</span></td>
   </tr>
   <tr>
     <td class="tg-y0ns" rowspan="4"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">对话模型</span></td>
