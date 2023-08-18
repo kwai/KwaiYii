@@ -280,15 +280,6 @@
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">48.37</span></td>
   </tr>
   <tr>
-    <td class="tg-y0ns"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">Llama1-65B</span><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">-Base</span></td>
-    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">39.80</span></td>
-    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">34.47</span></td>
-    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">40.24</span></td>
-    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">41.55</span></td>
-    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">42.88</span></td>
-    <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">37.00</span></td>
-  </tr>
-  <tr>
     <td class="tg-y0ns" rowspan="4"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2329;background-color:transparent">对话模型</span></td>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">GPT-4</span></td>
     <td class="tg-k0nr"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#F6F8FA">70.95</span></td>
