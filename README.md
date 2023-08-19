@@ -241,7 +241,7 @@
     <td class="tg-8jfr"><strong>69.22</strong></td>
     <td class="tg-8jfr"><strong>64.49</strong></td>
     <td class="tg-8jfr"><strong>65.09</strong></td>
-    <td class="tg-8jfr"><strong>63.1</strong></td>
+    <td class="tg-8jfr"><strong>63.10</strong></td>
   </tr>
   <tr>
     <td class="tg-d5y0"><span style="font-weight:normal;font-style:normal;text-decoration:none;color:#1F2328;background-color:#FFF">Qwen-7B-Base</span></td>
